@@ -1,0 +1,7 @@
+{
+  "name": "bambuSolucoes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
